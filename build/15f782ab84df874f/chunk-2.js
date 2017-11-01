@@ -1,0 +1,1 @@
+"use strict";require.push({3:function(u,t,n){var e=function(u){return u&&u.__esModule?u:{default:u}}(t(0));(0,e.default)("button").on("click",function(u){t.ensure([2],function(u){var t=u(2)();(0,e.default)("#app").html(t)})})}},3);

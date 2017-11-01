@@ -1,0 +1,1 @@
+require.define([],function(e,a,n){Object.defineProperty(e,"__esModule",{value:!0}),e.default=function(){return'<div class="avatar"></div>'},e.__css=function(e){var a="";return a+=".avatar{width:6em;height:6em;margin:2em auto;background:url(",a+=e,a+="/15f782ab84df874f/img/avatar.png",a+=") no-repeat 50% 50%;background-size:contain}"}});
